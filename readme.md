@@ -1,4 +1,4 @@
-Практическая работа по модулю 29.
+Практическая работа по модулю 30.
 
 Задание 1. Код <a href="https://github.com/evg13ny/module14_homework/blob/main/task1.js" target="_blank">GitHub</a>, <a href="https://codepen.io/evg13ny/pen/NWpmKEG" target="_blank">CodePen</a>.
 
